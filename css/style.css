@@ -1,0 +1,17 @@
+.container{
+    color: darkblue;
+    font-style: italic;
+    height:  95 vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.imagem{
+    max-width: 30%;
+    max-height: 30%;
+    padding-right: 200px;
+    width: auto;
+    height: auto;
+}
